@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Epoxydemo</string>
+    <string name="settings_1">Settings 1</string>
+    <string name="settings_2">Settings 2</string>
+    <string name="settings_3">Settings 3</string>
+    <string name="header_1">Header 1</string>
+    <string name="footer_1">Footer 1</string>
+</resources>
